@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/gitfetch_web_build_1.0-passing-green)
+![](https://img.shields.io/badge/gitfetch_web_1.0-passing-green)
 
 # web version of [gitfetch-CLI](https://github.com/gongahkia/gitfetch)
 
